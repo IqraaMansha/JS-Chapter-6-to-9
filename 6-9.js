@@ -1,7 +1,6 @@
 // Assigment No. 6 - 9
 
 // Math Expressions
-
 // Q.no.1
 
 var a = 10;
