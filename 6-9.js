@@ -1,5 +1,6 @@
 // Assigment No. 6 - 9
 // Math Expressions
+
 // Q.no.1
 var a = 10;
 document.write("Result:" + "<br>" + "Now the value of a is: " + a + "<br>" + "<br>");
